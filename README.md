@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=habekk&label=Profile%20views&color=0e75b6&style=flat" alt="habekk" /> </p>
 
-<p align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazo)](https://solved.ac/hazo/) </p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazo)](https://solved.ac/hazo/)
 
 - 📝 Blog [https://con2joa.tistory.com/](https://con2joa.tistory.com/)
 
