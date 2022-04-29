@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habekk&label=Profile%20views&color=0e75b6&style=flat" alt="habekk" /> </p>
 
+I am Bak Haeak a Computer Science Student from SeoulTech.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazo)](https://solved.ac/hazo/)
