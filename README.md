@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Habaek</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=habekk&label=Profile%20views&color=0e75b6&style=flat" alt="habekk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habekk&label=Profile%20views&color=0e75b6&style=flat" alt="habekk" /> </p>
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazo)](https://solved.ac/hazo/)
+
+
 
 - 📝 Blog [https://con2joa.tistory.com/](https://con2joa.tistory.com/)
 
