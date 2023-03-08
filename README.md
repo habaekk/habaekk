@@ -11,7 +11,7 @@ I am Bak Haeak a Computer Science Student from SeoulTech.
 
 - 📝 Blog [https://con2joa.tistory.com/](https://con2joa.tistory.com/)
 
-- 📫 E-mail **habaek.bak@gmail.com**
+- 📫 E-mail **haback1493@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
