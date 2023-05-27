@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habaek</h1>
 
-I am Bak Haeak a Computer Science Student from SeoulTech.
+I am Bak Habaek a Computer Science Student from SeoulTech.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazo)](https://solved.ac/hazo/)
