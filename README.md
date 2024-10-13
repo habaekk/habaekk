@@ -1,66 +1,80 @@
-Habaek Park's GitHub Profile
 
-Hello! 👋I'm a frontend developer passionate about web and mobile application development.
+# Habaek's GitHub Profile
 
-✨ About Me
+[English](https://github.com/habaekk) | [한국어](https://github.com/habaekk/habaekk/blob/main/README_kr.md)
 
-Name: Habaek Park
+  
 
-Education: Seoul National University of Science and Technology, ITM → Computer Engineering (Bachelor's, GPA: 3.93/4.5)
+Hello! 👋  
+I'm a frontend developer passionate about web and mobile application development.
 
-Online Courses (Udemy): iOS & Swift - The Complete iOS App Development Bootcamp
+## ✨ About Me
 
-Language Skills & Certifications:
+-   **Name**: Habaek Bak
+    
+-   **Education**: Seoul National University of Science and Technology, ITM → Computer Engineering (Bachelor's, GPA: 3.93/4.5)
+    
+-   **Online Courses (Udemy)**: iOS & Swift - The Complete iOS App Development Bootcamp
+    
+-   **Language Skills & Certifications**:
+    
+    -   **TOEIC**: 930/990
+        
+    -   **TOEIC Speaking**: 170 (AL)
+        
+    -   **Information Processing Engineer**
+        
+    -   **SQLD**
+        
 
-TOEIC: 930/990
+## 🛠️ Tech Stack
 
-TOEIC Speaking: 170 (AL)
+-   **Frontend**: React, Next.js, SwiftUI, Kotlin
+    
+-   **Mobile Development**: iOS, Android
+    
+-   **Tools**: Xcode, Android Studio, Visual Studio Code
+    
 
-Information Processing Engineer
+## 📞 Contact
 
-SQLD
+-   **📬 Email**: haback1493@gmail.com
+    
+-   **📝 Blog**: [velog.io/@haback1](https://velog.io/@haback1)
+    
+-   **📷 Instagram**: [@prenny1067](https://www.instagram.com/prenny1067)
+    
 
-🛠️ Tech Stack
+----------
 
-Frontend: React, Next.js, SwiftUI, Kotlin
+## 📂 Projects
 
-Mobile Development: iOS, Android
+### Moon Shape Widget ([Free App](https://github.com/habaekk/moonShapeWidget_Light) | [Paid App](https://github.com/habaekk/Where-is-the-Moon-AR))
 
-Tools: Xcode, Android Studio, Visual Studio Code
+-   **Platform**: iOS Application (SwiftUI)
+    
+-   **Overview**: An application that visualizes the moon's shape as a lock screen widget and in AR
+    
 
-📞 Contact
+### [Watering Widget](https://github.com/habaekk/Watering-Widget)
 
-📬 Email: haback1493@gmail.com
+-   **Platform**: Android Application (Kotlin)
+    
+-   **Overview**: A home screen widget application for tracking daily water intake
+    
 
-📝 Blog: velog.io/@haback1
+### [CatSAMA](https://github.com/habaekk/CatSAMA_WLD)
 
-📷 Instagram: @prenny1067
+-   **Platform**: Next.js Web Application
+    
+-   **Overview**: A smart web service combining IoT and LLM
+    
 
-📂 Projects
+### [Impossible Possibility Portfolio](https://github.com/habaekk/possible-port)
 
-Moon Shape Widget (Free App | Paid App)
+-   **Platform**: Next.js Web Application
+    
+-   **Overview**: A portfolio website showcasing projects and experience
+    
 
-Platform: iOS Application (SwiftUI)
-
-Overview: An application that visualizes the moon's shape as a lock screen widget and in AR
-
-Watering Widget
-
-Platform: Android Application (Kotlin)
-
-Overview: A home screen widget application for tracking daily water intake
-
-CatSAMA
-
-Platform: Next.js Web Application
-
-Overview: A smart web service combining IoT and LLM
-
-Impossible Possibility Portfolio
-
-Platform: Next.js Web Application
-
-Overview: A portfolio website showcasing projects and experience
-
-For more details on other projects, check out the repositories below.
-
+**For more details on other projects, check out the repositories below.**
