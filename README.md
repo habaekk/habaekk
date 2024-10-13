@@ -23,6 +23,30 @@
     -   **SQLD**
         
 
+
+    
+
+## 🛠️ 기술 스택
+
+-   **프론트엔드**: React, Next.js, SwiftUI, Kotlin
+    
+-   **모바일 개발**: iOS, Android
+    
+-   **도구**: Xcode, Android Studio, Visual Studio Code
+    
+
+## 📞 연락처
+
+-   **📬 이메일**: haback1493@gmail.com
+    
+-   **📝 블로그**: [velog.io/@haback1](https://velog.io/@haback1)
+    
+-   **📷 인스타그램**: [@prenny1067](https://www.instagram.com/prenny1067)
+
+
+-----
+    
+
 ## 📂 프로젝트
 
 ### Moon Shape Widget ([무료앱](https://github.com/habaekk/moonShapeWidget_Light) | [유료앱](https://github.com/habaekk/Where-is-the-Moon-AR))  
@@ -51,26 +75,6 @@
 -   **플랫폼**: Next.js 웹 애플리케이션
     
 -   **개요**: 프로젝트와 경력을 소개하는 포트폴리오 웹사이트
-    
 
-## 🛠️ 기술 스택
-
--   **프론트엔드**: React, Next.js, SwiftUI, Kotlin
-    
--   **모바일 개발**: iOS, Android
-    
--   **도구**: Xcode, Android Studio, Visual Studio Code
-    
-
-## 📞 연락처
-
--   **📬 이메일**: haback1493@gmail.com
-    
--   **📝 블로그**: [velog.io/@haback1](https://velog.io/@haback1)
-    
--   **📷 인스타그램**: [@prenny1067](https://www.instagram.com/prenny1067)
-    
-
-----------
-
-감사합니다! 😊
+  
+프로젝트에 대한 내용은 아래의 레포지토리를 확인하세요.
