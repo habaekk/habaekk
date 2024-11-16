@@ -21,6 +21,8 @@ I'm a frontend developer passionate about web and mobile application development
     -   **TOEIC**: 930/990
         
     -   **TOEIC Speaking**: 170 (AL)
+ 
+    -   **JLPT N2**
         
     -   **Information Processing Engineer**
         
