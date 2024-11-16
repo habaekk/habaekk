@@ -31,9 +31,11 @@ I'm a frontend developer passionate about web and mobile application development
 
 ## 🛠️ Tech Stack
 
--   **Frontend**: React, Next.js, SwiftUI, Kotlin
+-   **Frontend**: React, Next.js
+
+-   **Backend**: Node.js
     
--   **Mobile Development**: iOS, Android
+-   **Mobile Development**: iOS(SwiftUI), Android(Kotlin)
     
 -   **Tools**: Xcode, Android Studio, Visual Studio Code
     
