@@ -35,7 +35,7 @@ I'm a frontend developer passionate about web and mobile application development
 
 -   **Backend**: Node.js
     
--   **Mobile Development**: iOS(SwiftUI)
+-   **Mobile**: iOS(SwiftUI)
     
 -   **Tools**: Xcode, Visual Studio Code
     
