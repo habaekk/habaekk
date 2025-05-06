@@ -44,11 +44,8 @@ I'm a frontend developer passionate about web and mobile application development
 
 -   **📬 Email**: haback1493@gmail.com
     
--   **📝 Blog**: [velog.io/@haback1](https://velog.io/@haback1)
-    
 -   **📷 Instagram**: [@prenny1067](https://www.instagram.com/prenny1067)
     
-
 ----------
 
 ## 📂 Projects
