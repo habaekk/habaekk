@@ -35,9 +35,9 @@ I'm a frontend developer passionate about web and mobile application development
 
 -   **Backend**: Node.js
     
--   **Mobile Development**: iOS(SwiftUI), Android(Kotlin)
+-   **Mobile Development**: iOS(SwiftUI)
     
--   **Tools**: Xcode, Android Studio, Visual Studio Code
+-   **Tools**: Xcode, Visual Studio Code
     
 
 ## 📞 Contact
